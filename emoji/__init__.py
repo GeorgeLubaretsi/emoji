@@ -17,6 +17,7 @@ emoji terminal output for Python.
 
 from emoji.core import emojize
 from emoji.core import demojize
+from emoji.core import demojize_flags
 from emoji.core import get_emoji_regexp
 from emoji.unicode_codes import EMOJI_ALIAS_UNICODE
 from emoji.unicode_codes import EMOJI_UNICODE
